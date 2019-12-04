@@ -10,6 +10,7 @@ public class Xinlatiansai {
 		System.out.println("尾兽玉");
 		System.out.println("鸣人发动攻击了");
 		System.out.println("六道发动攻击了");
+		System.out.println("地爆天星");
 	}
 
 }
