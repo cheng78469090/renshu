@@ -8,7 +8,7 @@ public class Xinlatiansai {
 		System.out.println("辛辣填塞");
 		System.out.println("螺旋手里剑");
 		System.out.println("尾兽玉");
-
+		System.out.println("鸣人发动攻击了");
 	}
 
 }
