@@ -20,6 +20,8 @@ public class Xinlatiansai {
                 System.out.println("长门被感动");
                 System.out.println("长门发动外道轮回天生术");
 		System.out.println("全村人复活了，但是长门死了");
+		System.out.println(卡痛，或卡扣那橘子"")
+
 	}
 
 }
