@@ -22,6 +22,7 @@ public class Xinlatiansai {
 		System.out.println("全村人复活了，但是长门死了");
 		System.out.println("卡痛，或卡扣那橘子");
 		System.out.println("这是一个新忍术");
+		System.out.println("这又是大大大新忍术");
 
 
 	}
