@@ -14,6 +14,7 @@ public class Xinlatiansai {
 		System.out.println("地爆天星");
 
 		System.out.println("尾兽玉螺旋手里剑");
+		System.out.println(卡痛，或卡扣那橘子"")
 	}
 
 }
