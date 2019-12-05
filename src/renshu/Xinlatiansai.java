@@ -14,13 +14,13 @@ public class Xinlatiansai {
 		System.out.println("地爆天星");
 
 		System.out.println("尾兽玉螺旋手里剑");
-                System.out.println("佩恩倒下了");
-                System.out.println("鸣人找到长门");
-                System.out.println("鸣人开始无敌嘴遁");
-                System.out.println("长门被感动");
-                System.out.println("长门发动外道轮回天生术");
+        System.out.println("佩恩倒下了");
+        System.out.println("鸣人找到长门");
+        System.out.println("鸣人开始无敌嘴遁");
+        System.out.println("长门被感动");
+        System.out.println("长门发动外道轮回天生术");
 		System.out.println("全村人复活了，但是长门死了");
-		System.out.println(卡痛，或卡扣那橘子"")
+		System.out.println("卡痛，或卡扣那橘子");
 		System.out.println("这是一个新忍术");
 
 
